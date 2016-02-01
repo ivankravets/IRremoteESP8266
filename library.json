@@ -8,5 +8,5 @@
     "url": "https://github.com/sebastienwarin/IRremoteESP8266.git"
   },
   "frameworks": "arduino",
-  "platforms": "esp8266"
+  "platforms": "espressif"
 }
